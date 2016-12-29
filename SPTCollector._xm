@@ -1,0 +1,5 @@
+<CONFIG>
+	<Server>192.168.54.157</Server>
+	<Database>PhoneStat</Database>
+	<ConnectionString>Trusted_Connection=yes;Database=%db;Server=%srv</ConnectionString>
+</CONFIG>
